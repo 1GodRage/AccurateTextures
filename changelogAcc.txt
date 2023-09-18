@@ -1,0 +1,815 @@
++ Accurate Textures : A Minecraft Resource Pack with 
+	Vanilla design in 32 px.
+Download & Informations & feedback:
+https://www.planetminecraft.com/texture-pack/accurate-textures/
+https://www.curseforge.com/minecraft/texture-packs/accurate-textures
+French: https://www.minecraft-france.fr/resource-pack-accurate-textures/
+-------------------------
+legend:     + added     - deleted     * edit    # comment       yyyy/mm/dd
+-------------------------
+
+
+2023/../.. - 1.20 (v5) .. Update
++ 
+* jukebox_side
+* deepslate_diamond_ore
+
+
+2023/06/09 - 1.20 (v4) Suspicious Update
++ suspicious_gravel_0
++ suspicious_gravel_1
++ suspicious_gravel_2
++ suspicious_gravel_3
++ suspicious_sand_0
++ suspicious_sand_1
++ suspicious_sand_2
++ suspicious_sand_3
+* mossy_cobblestone
+	/item/
++ pink_petals
++ empty_armor_slot_boots
++ empty_armor_slot_chestplate
++ empty_armor_slot_helmet
++ empty_armor_slot_leggings
++ empty_armor_slot_shield
+* arrow (fancier shape)
+
+
+2023/06/02 - 1.20 (v3) Comme ça pling !
++ spruce_sapling
++ acacia_sapling
++ dark_oak_sapling
++ cherry_sapling
++ jungle_sapling
++ birch_sapling
+*+ stone_bricks (total renew)
++ loom_side
++ bookshelf
++ nether_sprouts
++ dripstone_block
++ pointed_dripstone_down_tip
++ pointed_dripstone_up_tip
++ pointed_dripstone_up_tip_merge
++ pointed_dripstone_down_tip_merge
++ pointed_dripstone_down_frustum
++ pointed_dripstone_up_frustum
++ pointed_dripstone_down_middle
++ pointed_dripstone_up_middle
++ pointed_dripstone_down_base
++ pointed_dripstone_up_base
++ cave_vines
++ cave_vines_lit
++ cave_vines_plant
++ cave_vines_plant_lit
++ cauldron_side
++ cauldron_top
++ cauldron_inner
+*+ cornflower (total renew)
++ rail (few alternatives Accurate rails in /others/)
++ rail_corner
++ activator_rail & ~_on
++ detector_rail & ~_on
++ powered_rail & ~_on
++ jigsaw block
++ structure_block *5
+* lantern
+* soul_lantern
+* brewing_stand
+* deepslate_coal_ore
+* netherite_block
+* peony_top
+* peony_bottom
+* rose_bush_top
+* rose_bush_bottom
+* warped_roots
+* gilded_blackstone (1px fix)
+* packed_ice (1px fix)
+* purpur_pillar
+* purpur_pillar_top
+* fletching_table_front
+* furnace_front
+* furnace_front_on
+* glowstone
+* azalea_leaves
+* beetroots_stage3
+* carrots_stage3
+* smithing_table_side
+* deepslate_gold_ore
+* respawn_anchor *5
+* chiseled_nether_bricks
+* smooth_basalt
+	/items/
++ netherite_upgrade_smithing_template
++ music_disc_relic
++ rib_armor_trim_smithing_template
++ dune_armor_trim_smithing_template
++ silence_armor_trim_smithing_template
++ snout_armor_trim_smithing_template
++ coast_armor_trim_smithing_template
++ eye_armor_trim_smithing_template
++ raiser_armor_trim_smithing_template
++ host_armor_trim_smithing_template
++ shaper_armor_trim_smithing_template
++ wayfinder_armor_trim_smithing_template
++ sentry_armor_trim_smithing_template
++ spire_armor_trim_smithing_template
++ tide_armor_trim_smithing_template
++ vex_armor_trim_smithing_template
++ ward_armor_trim_smithing_template
++ wild_armor_trim_smithing_template
++ empty_armor_trim_smithing_template (in /others/)
++ brick
++ tadpole_bucket
++ wheat
++ nether_sprouts
++ brush
++ beetroot
++ beetroot_seed
++ beetroot_soup
++ acacia_boat
++ acacia_chest_boat
++ birch_boat
++ birch_chest_boat
++ spruce_boat
++ spruce_chest_boat
++ oak_boat
++ oak_chest_boat
++ mangrove_boat
++ mangrove_chest_boat
++ cherry_boat
++ cherry_chest_boat
++ jungle_boat
++ jungle_chest_boat
++ dark_oak_boat
++ dark_oak_chest_boat
++ structure_void
++ shears
++ cauldron
++ seagrass
++ melon_seeds
++ rotten_flesh
++ firework_star
++ firework_star_overlay
++ experience_bottle
++ map
++ filled_map
++ filled_map_markings
++ lapis_lazuli
++ dried_kelp
++ charcoal
++ pumpkin_seeds
++ glistering_melon_slice
++ nether_wart
++ chorus_fruit
++ popped_chorus_fruit
++ trident
++ torchflower_seeds
++ empty_slot_redstone_dust
++ empty_slot_smithing_template_netherite_upgrade
++ empty_slot_smithing_template_armor_trim
++ empty_slot_ingot
++ empty_slot_lapis_lazuli
++ empty_slot_quartz
++ empty_slot_diamond
++ empty_slot_emerald
++ empty_slot_amethyst_shard
++ empty_slot_sword
++ empty_slot_shovel
++ empty_slot_axe
++ empty_slot_hoe
++ empty_slot_pickaxe
++ sniffer_egg
++ pitcher_plant
++ pitcher_pod
++ rabbit_hide
++ rabbit
++ cooked_rabbit
++ salmon
++ cooked_salmon
++ spectral_arrow
++ tipped_arrow_head
++ tipped_arrow_base
+* white_dye
+* yellow_dye
+* brown_dye
+* blue_dye
+* light_blue_dye
+* lime_dye
++ green_dye
+*# changelog.txt become changelogAcc.txt
+
+
+2023/5/26 - 1.20 (v2) Ice melon-bamboo stem'Update!
++ packed_ice
++ blue_ice
++ ice
++ melon_side
++ melon_top
++ melon_stem
++ bamboo_block
++ bamboo_planks
++ stripped_bamboo_block
++ magma_block
++ warped_stem
++ crimson_stem
++ mangrove_roots_side
++ mangrove_roots_top
++ chiseled_polished_blackstone
++ pumpkin_stem
++ polished_deepslate
++ netherite_block
++ gold_block
++ jukebox_top
++ jukebox_side
++ attached_pumpkin_stem
++ attached_melon_stem
+* cherry_leaves
+* sugar_cane
+* torchflower (1pixel fix)
+* stone_bricks
+*# Pack description changed to "made by @GodRage_Aonwa"
+# If you want some items into 32x32 please name them in comment section. Because I use the 48x48 items pack (GUI scale x3), I don't need them, so I work on blocks instead of items.
+
+
+2023/5/17 - 1.20 (v1) Leave Update!
++ cherry_leaves
++ cherry_planks
++ torchflower
++ oak_leaves
++ spruce_leaves
++ dark_oak_leaves
++ jungle_leaves
++ acacia_leaves
++ birch_leaves
++ azalea_leaves
++ flowering_azalea_leaves
++ mangrove_leaves
++ cracked_nether_bricks
++ chiseled_nether_bricks
++ chiseled_deepslate
++ nether_wart_stage2
+* polished_blackstone (total renew)
+* polished_blackstone_bricks (total renew) #previous version moved in /others/
++ bamboo_door_bottom
++ bamboo_door_top (raw 16x16)
++ raw_iron_block
+* wheat_stage7 (total renew)
+* potatoes_stage3
+#wheat_stage7 & potatoes_stage3:
+	#Improved as I did for cobweb (because: Not a building block)
+	#But old version was more accurate, moved in /others/
+* fern
+	/items/
++ bamboo_door
++ bamboo_chest_raft
++ bamboo_raft
+* Raw_iron
++ barrier
++ recovery_compass
++ emerald (maybe need a redo? Your opinion in comments section is welcome!)
++ end_crystal
++ flower_banner_pattern
++ globe_banner_pattern
++ mojang_banner_pattern
++ creeper_banner_pattern
++ piglin_banner_pattern
++ skull_banner_pattern
++ crossbow_arrow
++ crossbow_firework
++ crossbow_pulling_0
++ crossbow_pulling_1
++ crossbow_pulling_2
++ crossbow_standby
+	/
+* Pack version: 15 (Minecraft 23w17a – 1.20 pre-release)
+
+
+2022/11/21 - 1.19 (v6) Sand Update!
++ moss_block
++ cracked_polished_blackstone_bricks
++ sand
++ sandstone_top
++ red_sand
++ red_sandstone
++ red_sandstone_bottom
++ red_sandstone_top
++ /gui/options_background
+	/items/
++ tropical_fish
++ cod
++ cooked_cod
++ pufferfish
++ flower_pot
++ painting
++ blaze_powder
+* bundle
+* bundle_filled
+
+
+2022/10/21 - 1.19 (v5) Some more items Update!
++ lodestone_top
+* lodestone_side
++ raw_gold_block
++ cobweb (accuracy 50%:same color, same shape, but string are thiner. Redo if any comment request it)
+* potatoes_stage3
+	/items/
++ golden_carrot
++ carrot
++ feather
++ bone_meal
++ flint
++ flint_and_steel
++ scute
++ turtle_helmet
++ glass_bottle
++ paper
++ sweet_berries
++ soul_lantern
++ beef
++ cooked_beef
++ porkchop
++ cooked_porkchop
++ potato
++ baked_potato (from HeroesII pack)
++ poisonous_potato
+
+
+2022/10/14 - 1.19 (v4) items Update!
++ cracked_deepslate_bricks
++ furnace_front
++ furnace_front_on
++ furnace_top
++ furnace_side
++ smithing_table_top
++ smithing_table_front
++ smithing_table_side
++ fletching_table_top
++ fletching_table_front
++ fletching_table_side
+* dirt
+* grass_block_side
+* grass_block_top
+* dirt_path_side
+	/items/
++ repeater
++ comparator
++ coal
++ apple
++ golden_appel
++ gunpowder
++ kelp
++ iron_nugget
++ gold_nugget
++ bell
++ item_frame
++ glow_item_frame
++ minecart
++ furnace_minecart
++ hopper
++ bone
++ lead
++ leather
++ spider_eye
++ honeycomb (95% Accurate)
++ sugar
++ compass_00 to _31
+* music_disc_5
++ music_disc_11
++ music_disc_13
++ music_disc_blocks
++ music_disc_cat
++ music_disc_chirp
++ music_disc_far
++ music_disc_mall
++ music_disc_mellohi
++ music_disc_otherside
++ music_disc_pigstep
++ music_disc_stal
++ music_disc_strad
++ music_disc_wait
++ music_disc_ward
++ light
++ light_00 to light_15
+* echo_shard
+* glow_berries
+* candle
+* black_candle
+* blue_candle
+* brown_candle
+* cyan_candle
+* grey_candle
+* green_candle
+* light_blue_candle
+* light_gray_candle
+* lime_candle
+* magenta_candle
+* orange_candle
+* pink_candle
+* purple_candle
+* red_candle
+* white_candle
+* yellow_candle
+* green_dye
+* pack.png #New pack logo!
+# New miror download: https://www.curseforge.com/minecraft/texture-packs/accurate-textures
+
+
+2022/10/07 - 1.19 (v3) Copper Update!
++ copper_block
++ cut_copper
++ exposed_copper
++ exposed_cut_copper
++ weathered_copper
++ weathered_cut_copper
++ oxidized_copper
++ oxidized_cut_copper
++ raw_copper_block
++ lightning_rod
++ mud
++ mud_bricks
++ packed_mud
++ rooted_dirt
++ coarse_dirt
++ mangrove_trapdoor
++ mangrove_door_bottom &_top
+* redstone_lamp_on &_off (more accuracy)
++ dark_prismarine
++ glow_lichen
++ warped_trapdoor
++ jungle_trapdoor
+- granite (new texture soon)
+- polished_andesite
+- polished_diorite
+- polished_granite
+- barrel (x4)
+- furnace (x4)
++ granite (total renew)
++ polished_diorite (total renew)
++ polished_andesite (total renew)
++ polished_granite (total renew)
+/items/
++ lantern
++ nether_brick
+* ghast_tear
+* iron_ingot
+* yellow_dye
+* lava_bucket
+# credits.txt will be deleted in next version.
+
+
+2022/10/01 - 1.19 (v2) Dirt 'n' grass Update!
++ grass_block_top
++ grass_block_side_overlay
++ grass_block_side
++ dirt
++ grass_block_snow
++ dirt_path_top
++ dirt_path_side
++ mycelium_side
++ mycelium_top
++ podzol_side
++ podzol_top
++ lantern
++ soul_lantern
++ chain (block)
++ twisting_vines_plant
++ twisting_vines
+* deepslate_bricks
+* cracked_stone_bricks
+* warped_door_top
+* blue_dye
+- bricks (was not accurate)
+
+
+2022/6/3 - 1.19 (v1)
+* tuff (total rework!)
++ deepslate_bricks
++ wheat_stage7
++ warped_roots
++ warped_roots_pot
++ crimson_roots
++ crimson_roots_pot
++ tainted_glass
++ glass
++ black_stained_glass
++ blue_stained_glass
++ brown_stained_glass
++ cyan_stained_glass
++ gray_stained_glass
++ green_stained_glass
++ light_blue_stained_glass
++ light_gray_stained_glass
++ slime_stained_glass
++ magenta_stained_glass
++ orange_stained_glass
++ pink_stained_glass
++ purple_stained_glass
++ red_stained_glass
++ white_stained_glass
++ yellow_stained_glass
++ /gui/ resource_packs (arrows)
++ /gui/ world_selection
++ /gui/ server_selection
++ /gui/ recipe_book
++ netherrack /model/ and /blockstates/ (to over write HeroesII pack)
+/items/
++ quartz 
++ heart_of_the_sea
++ glowstone_dust
+
+
+2022/5/13 - 1.18 (v7)
++ mangrove_planks (1.19 new item)
++ smooth_basalt
++ bamboo_stage0
++ bamboo_stalk
++ bamboo_small_leaves
++ bamboo_large_leaves
++ bamboo_singleleaf
++ deepslate
++ deepslate_top
++ cobbled_deepslate
++ deepslate_emerald_ore
++ deepslate_redstone_ore
++ deepslate_iron_ore
++ deepslate_lapis_ore
++ deepslate_gold_ore
++ deepslate_diamond_ore
++ deepslate_copper_ore
++ deepslate_coal_ore
++ warped_door_top
++ warped_door_bottom
++ netherrack
++ nether_gold_ore
++ nether_quartz_ore
++ crimson_nylium_side
++ warped_nylium_side
+* andesite (sorry, was not accurate: total renew)
++ diamond_ore
++ redstone_ore
++ emerald_ore
++ coal_ore
++ copper_ore
++ iron_ore
++ lapis_ore
++ gold_ore
+* poppy
+* netherite_ingot
+* netherite_scrap
++ egg
++ ender_eye
++ ender_pearl
++ bamboo
+- golden_apple (was not accurate, sorry)
+
+
+2022/5/5 - 1.18 (v6)
++ echo_shard (1.19 new item)
++ goat_horn (1.19 new item)
++ mangrove_propagule (1.19 new item)
++ music_disc_5 (1.19 new item)
++ lily_pad
++ redstone
++ redstone_lamp
++ redstone_lamp_on
++ bedrock
++ mossy_stone_bricks
++ cracked_stone_bricks
++ diamond_block
+* ancient_debris_side
+* ancient_debris_top
++ end_portal_frame_side
++ end_portal_frame_top
++ end_portal_frame_eye
+
+
+2022/02/18 - 1.18 (v5)
++ polished_blackstone_bricks
++ stone_bricks
++ ghast_tear
+* end_stone_bricks (dark corners was missing)
+* splash_potion, lingering_potion (now fits the overlay)
+- paper
+- netherite_sword
+
+
+2022/01/14 - 1.18 (v4)
++ stone ! (4th attempt)
++ shroomlight
+* all planks
+/items/
++ arrow
++ black_dye (was missing in previous update)
++ blaze_rod
++ bow (4 images)
++ bread
++ iron_ingot
++ elytra
++ broken_elytra
++ fire_charge
++ honey_bottle
++ nautilus_shell
++ potion
++ potion_overlay
++ splash_potion
++ lingering_potion
++ name_tag
++ phantom_membrane
++ slime_ball
++ snowball
++ sugar_cane
++ shulker_shell
++ spawn_egg
++ spawn_egg_overlay
++ turtle_egg
++ wheat_seeds
++ bucket
+* powder_snow_bucket
++ water_bucket
++ milk_bucket
++ lava_bucket
++ axolotl_bucket
++ cod_bucket
++ pufferfish_bucket
++ salmon_bucket
++ tropical_fish_bucket
++ written_book
++ enchanted_book
++ knowledge_book
++ writable_book
+
+
+2021/12/24 - 1.18 (v3)
++ basalt_top
++ basalt_side
++ bricks
++ calcite
++ crimson_nylium
++ furnace_front
++ furnace_front_on
++ furnace_side
++ furnace_top
++ granite
++ lodestone_side
++ nether_wart_block
++ polished_granite
++ soul_soil
++ vine
++ warped_nylium
++ warped_wart_block
+- bedrock (may come back once the texture is good)
+* warped_planks (more accuracy, if it still looks good after few weeks, same design will apply to others planks)
+	/items/
++ book
++ golden_apple
++ netherite_sword
++ netherite_ingot
++ netherite_scrap
++ paper
++ All 16 dyes
++ saddle
++ stick
++ string
+* copper_ingot
+
+
+2021/11/30 - 1.18 (v2) "The Adrien_Sama Participation" update
++ andesite 
++ polished_andesite
++ diorite
++ polished_diorite
++ bedrock
++ barrel_top
++ barrel_top_open
++ barrel_side
++ barrel_bottom
++ ancient_debris_side
++ ancient_debris_top
++ pumpkin_top
++ pumpkin_side
++ carved_pumpkin
++ jack_o_lantern
+* soul_sand
+- ender_eye
+- ender_pearl
+
+
+2021/11/26 - 1.18 (v1)
++ soul_sand
++ end_stone
++ end_stone_bricks (not that much accurate if too close to it)
+* amethyst_cluster
+* cobblestone (Still accurate from far, but in fact many pixel changed...)
+
+
+2021/11/19 - 1.17 (v6)
++ gilded_blackstone
++ allium
++ azure_bluet
++ big_dripleaf_stem
++ cornflower
++ fern
++ Large_fern (top, bottom)
++ wither_rose
++ brown_mushroom
++ white_tulip
++ red_tulip
++ orange_tulip
++ pink_tulip
++ dandelion
++ lily_of_the_valley
++ lilac (top, bottom)
++ oxeye_daisy
++ peony_top, peony_bottom
++ rose_bush (top, bottom)
++ warped_fungus
++ crimson_fungus
++ weeping_vines
++ weeping_vines_plant
++ beetroots_stage3
++ carrots_stage3
++ potatoes_stage3
++ brewing_stand, brewing_stand_base
+* blackstone
+* blackstone_top
+
+
+2021/11/13 - 1.17 (v5)
+* respawn_anchor_side (0,1,2,3,4) remade, accurate texture now.
+
+
+2021/11/13 - 1.17 (v4)
++ dead_bush
++ purpur_block
++ purpur_pillar
++ purpur_pillar_top (modified very few pixels)
++ grass
++ tall_grass_bottom
++ tall_grass_top
++ respawn_anchor_bottom (identical: crying_obsidian)
++ respawn_anchor_side (0,1,2,3,4)
++ sugar_cane
++ poppy
++ fishing_hook
+
+
+2021/10/22 - 1.17 (v3)
++ obsidian
++ crying_obsidian
++ polished_blackstone
++ enchanting_table (side, top, bottom)
++ tuf
++ glowstone
++ mossy_cobblestone
+* cobblestone
+* crafting_table_top (1 pixel correction)
+* crafting_table_front
+* crafting_table_side
+* sandstone
+* sandstone_bottom
++ ender perl
++ ender eye
++ diamond
++ /entity/bell
+* Pack image
+
+
+2021/07/18 - 1.17 (v2)
++ blackstone
++ blackstone_top
++ amethyst_cluster
++ amethyst_shard
++ Candles
++ raw iron, copper, gold
++ glow_ink_sac
++ glow_berries
++ copper_ingot
++ Bundle
++ powder_snow_bucket
+* pack (The logo of this texture pack)
+
+
+2021/01/25 - 1.16 (v1)
++ crimson_planks
++ warped_planks
++ birch_planks
++ spruce_planks
++ dark_oak_planks
++ oak_planks
++ acacia_planks
++ jungle_planks
++ cobblestone
++ red_nether_bricks 
++ nether_bricks 
++ crafting_table_front, _side, _top
++ sandtone, sandstone_bottom
++ magenta_glazed_terracotta
+
+
+-------------------------
+legend:     + added     - deleted     * edit    #comment       yyyy/mm/dd
+légende :   + ajouté    - supprimé    * édité   #commentaire   aaaa/mm/jj
+-------------------------
+Author: twitter: @GodRage_Aonwa 
+Author homepage: http://godrage.free.fr/
+-------------------------
