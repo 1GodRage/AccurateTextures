@@ -1,0 +1,12 @@
+LICENSE.txt
+(CC-BY-no$)
+No money involved, can not be sold, can not be traded without my public approbation.
+
+Usage guidelines (CC-BY-no$)
+
+Create a credits.txt within your project.zip that includes the text below: 
+* Accurate textures https://www.planetminecraft.com/texture-pack/accurate-textures/ 
+* Original Author Twitter: @GodRage_Aonwa 
+* Original Author homepage: http://godrage.free.fr
+
+You can then modify freely any textures.
