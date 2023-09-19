@@ -10,22 +10,6 @@ Original idea by GodRage, on https://www.planetminecraft.com/texture-pack/accura
 -This pack aims on blocks/items.
 
 
-<h2>Making an Accurate Texture </h2>
-<p>Original 16x16 texture > Paint-like program > upscale to 32x32.</p>
-By importance order:
-
-+ 1- Original color only: no new colors into the image.
-+ 2- Keep the same amount of pixels for each color. (Histogram Average channel must be the same #color)
-+ 3- Keep the same amount of pixels for the most dark/bright color in any texture. (kind of 2bis)
-+ 4- Respect the block: do not touch what make this block recognizable, or its particularity.
-+ 5- Diagonal lines must be changed to be more lines than stairs.
-+ 6- Touch the texture the less possible; most of original pixels² must keep 3 pixels of its original color. (Squared blocks only)
-
-- And then, post it in the comment section, if you want to add it to the next version of this pack: with written permission for me to add it in this texture pack.
-- Playtest with this texture for couple weeks, if it is matching, it's accepted.
-
-
-
 <h2>Usage guidelines (CC-BY-no$)</h2>
 Create a credits.txt within your project.zip that includes the text below:
 
