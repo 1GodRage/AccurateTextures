@@ -11,9 +11,8 @@ This pack aims on blocks/items.
 Optifine is not needed.
 
 
-== Making an Accurate Texture ==
- Original 16x16 texture > Paint-like program > upscale to 32x32.
-
+<h2>Making an Accurate Texture ==</h2>
+<p>Original 16x16 texture > Paint-like program > upscale to 32x32.</p>
 By importance order:
 
 1- Original color only: no new colors into the image.
