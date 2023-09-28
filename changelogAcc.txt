@@ -1,6 +1,8 @@
 + Accurate Textures : A Minecraft Resource Pack with 
-	Vanilla design in 32 px.
+	Strict vanilla in 32 px.
 Download & Informations & feedback:
+https://modrinth.com/resourcepack/accurate-textures 
+https://github.com/1GodRage/AccurateTextures 
 https://www.planetminecraft.com/texture-pack/accurate-textures/
 https://www.curseforge.com/minecraft/texture-packs/accurate-textures
 French: https://www.minecraft-france.fr/resource-pack-accurate-textures/
@@ -9,10 +11,66 @@ legend:     + added     - deleted     * edit    # comment       yyyy/mm/dd
 -------------------------
 
 
-2023/../.. - 1.20 (v5) .. Update
-+ 
+2023/10/28 - 1.20.2 (v5) The Glazed Sculk Update
++ amethyst_block
++ budding_amethyst
++ small_amethyst_bud
++ medium_amethyst_bud
++ large_amethyst_bud
++ seagrass
++ brown_glazed_terracotta
++ orange_glazed_terracotta
++ light_blue_glazed_terracotta
++ yellow_glazed_terracotta
++ red_glazed_terracotta
++ white_glazed_terracotta
++ black_glazed_terracotta
++ gray_glazed_terracotta
++ light_gray_glazed_terracotta
++ cyan_glazed_terracotta
++ pink_glazed_terracotta
++ blue_glazed_terracotta
++ green_glazed_terracotta
++ lime_glazed_terracotta
++ purple_glazed_terracotta
++ muddy_mangrove_roots_side
++ muddy_mangrove_roots_top
++ verdant_froglight_top
++ ochre_froglight_top
++ pearlescent_froglight_top
++ verdant_froglight_side
++ ochre_froglight_side
++ pearlescent_froglight_side
++ sculk
++ sculk_vein
++ sculk_shrieker_bottom
++ sculk_catalyst_top
++ sculk_catalyst_side
++ sculk_catalyst_top_bloom
++ sculk_catalyst_side_bloom
++ sculk_catalyst_bottom
++ sculk_sensor_bottom
++ sculk_sensor_side
++ sculk_sensor_top
++ sculk_sensor_tendril_inactive
++ sculk_sensor_tendril_active
++ sculk_shrieker_top
++ sculk_shrieker_side
++ sculk_shrieker_inner_top
++ sculk_shrieker_can_summon_inner_top
++ calibrated_sculk_sensor_amethyst
++ calibrated_sculk_sensor_input_side
++ calibrated_sculk_sensor_top
++ tripwire_hook
++ bone_block_top
++ bone_block_side
+* dark_prismarine
+* lodestone_side (thanks to @CreeperMCarl2015 for his comment)
 * jukebox_side
 * deepslate_diamond_ore
+# Opened github https://github.com/1GodRage/AccurateTextures 
+# Opened modrinth https://modrinth.com/resourcepack/accurate-textures 
+* texture pack format: 15 (1.20), 18 (1.20.2)
 
 
 2023/06/09 - 1.20 (v4) Suspicious Update
