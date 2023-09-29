@@ -10,7 +10,7 @@ Original idea by GodRage, on https://www.planetminecraft.com/texture-pack/accura
 -This pack aims on blocks/items.
 
 
-<h2>Usage guidelines (CC-BY-no$)</h2>
+<h2>Usage guidelines (CC-BY-NC-4.0)</h2>
 Create a credits.txt within your project.zip that includes the text below:
 
 - Accurate textures https://www.planetminecraft.com/texture-pack/accurate-textures/
