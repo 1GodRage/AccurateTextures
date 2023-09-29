@@ -1,5 +1,5 @@
 LICENSE.txt
-(CC-BY-no$)
+(CC-BY-NC-4.0)
 No money involved, can not be sold, can not be traded without my public approbation.
 
 Usage guidelines (CC-BY-no$)
