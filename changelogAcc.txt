@@ -11,6 +11,88 @@ legend:     + added     - deleted     * edit    # comment       yyyy/mm/dd
 -------------------------
 
 
+2023/10/.. - 1.20.2 (v6) A Log of items Update
++ birch_log
++ cherry_log
++ acacia_log
++ spruce_log
++ oak_log
++ dark_oak_log
++ jungle_log
++ mangrove_log
++ oak_sapling
+/items/
++ armor_stand
++ _pottery_sherd. x20 (all 20)
++ bowl
+* beetroot_soup
++ cake
++ campfire
++ clock x64 (all 64 frames) #old design.
++ prismarine_crystals
++ prismarine_shard
++ pumpkin_pie
++ rabbit_foot
++ rabbit_stew
++ sea_pickle
++ soul_campfire
++ diamond_boots
++ diamond_chestplate
++ diamond_helmet
++ diamond_leggings
++ golden_boots
++ golden_chestplate
++ golden_helmet
++ golden_leggings
++ dragon_breath
++ disc_fragment_5
++ firework_rocket
++ fermented_spider_eye
++ leather_chestplate
++ fishing_rod_cast
++ fishing_rod
++ carrot_on_a_stick
++ warped_fungus_on_a_stick
++ warped_door
++ suspicious_stew
++ totem_of_undying
++ diamond_horse_armor
++ golden_horse_armor
++ leather_horse_armor
++ gold_ingot
++ iron_boots
++ iron_chestplate
++ iron_helmet
++ iron_leggings
++ cherry_door
++ cod
++ cooked_cod
++ cookie
++ iron_horse_armor
++ mutton
++ cooked_mutton
++ cocoa_beans
++ nether_star
++ mangrove_door
++ chain
++ Leather armors (all, with overlay)
++ chainmail armors (all 4)
++ mushroom_stew
++ ink_sac
++ clay_ball
++ melon_slice
++ chicken
++ coocked_chicken
++ _HOES (all 6)
++ _AXES (all 6) #Comment, maybe keeping the 16x16 is better?
++ _Sword (all 6)
++ _Shovel (all 6)
+* minecart: TOTAL RENEW
++ minecrats (all)
++++++++++++++ TO REDO: _pickaxe (all 6) netherite_pickaxe (MAYBE NOT)
+* texture pack format: 15 (1.20), 18 (1.20.2), 19 (1.20.3 snapshot),
+
+
 2023/10/28 - 1.20.2 (v5) The Glazed Sculk Update
 + amethyst_block
 + budding_amethyst
