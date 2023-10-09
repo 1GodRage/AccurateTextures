@@ -1,6 +1,13 @@
 # AccurateTextures
-Accurate Textures x32 Minecraft resource pack
-Original idea by GodRage, on https://www.planetminecraft.com/texture-pack/accurate-textures/
+Accurate Textures is a x32 Minecraft resource pack
+
+#### Where is Accurate Textures?
+* https://www.planetminecraft.com/texture-pack/accurate-textures/
+* https://www.curseforge.com/minecraft/texture-packs/accurate-textures
+* https://modrinth.com/resourcepack/accurate-textures
+* https://www.minecraft-france.fr/resource-pack-accurate-textures/
+
+Original idea by GodRage, on Planet Minecraft.
 
 <h2>Original Idea</h2>
 -Original color only: no new colors in the image.
@@ -16,8 +23,4 @@ Create a credits.txt within your project.zip that includes the text below:
 - Accurate textures https://www.planetminecraft.com/texture-pack/accurate-textures/
 - Original Author Twitter: @GodRage_Aonwa
 - Original Author homepage: http://godrage.free.fr
-
-Then, you can modify freely any textures.
-- No money involved,
-- Comment in section below with a link to your project, or by private message.
-- With correct credits and after telling me what you are doing, I may authorize you to reupload this texture pack.
+- https://github.com/1GodRage/AccurateTextures/
