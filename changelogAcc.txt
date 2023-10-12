@@ -1,17 +1,14 @@
-+ Accurate Textures : A Minecraft Resource Pack with 
-	Strict vanilla in 32 px.
-Download & Informations & feedback:
-https://modrinth.com/resourcepack/accurate-textures 
-https://github.com/1GodRage/AccurateTextures 
-https://www.planetminecraft.com/texture-pack/accurate-textures/
-https://www.curseforge.com/minecraft/texture-packs/accurate-textures
-French: https://www.minecraft-france.fr/resource-pack-accurate-textures/
+
+	Accurate Textures
+	
+ A very strict Minecraft Resource Pack in 32 px.
+ 	https://github.com/1GodRage/AccurateTextures
 -------------------------
 legend:     + added     - deleted     * edit    # comment       yyyy/mm/dd
 -------------------------
 
 
-2023/10/.. - 1.20.2 (v6) A Log of items Update
+2023/10/13 - 1.20.2 (v6) A Log of items Update, with Corals
 + birch_log
 + cherry_log
 + acacia_log
@@ -21,7 +18,76 @@ legend:     + added     - deleted     * edit    # comment       yyyy/mm/dd
 + jungle_log
 + mangrove_log
 + oak_sapling
-/items/
+* potatoes_stage3
++ horn_coral_block
++ bubble_coral_block
++ tube_coral_block
++ fire_coral_block
++ brain_coral_block
++ dead_horn_coral_block
++ dead_bubble_coral_block
++ dead_tube_coral_block
++ dead_fire_coral_block
++ dead_brain_coral_block
++ tube_coral_fan
++ dead_tube_coral_fan
++ tube_coral
++ dead_tube_coral
++ horn_coral_fan
++ horn_coral
++ dead_horn_coral
++ fire_coral
++ dead_fire_coral
++ fire_coral_fan
++ dead_fire_coral_fan
++ bubble_coral_fan
++ dead_bubble_coral_fan
++ bubble_coral
++ dead_bubble_coral
++ brain_coral
++ dead_brain_coral
++ brain_coral_fan
++ dead_brain_coral_fan
++ chorus_plant
++ chorus_flower_dead
++ chorus_flower
++ torch
++ soul_torch
++ redstone_torch
++ redstone_torch_off
++ lever
++ red_mushroom
++ end_rod
++ turtle_egg
++ turtle_egg_slightly_cracked
++ turtle_egg_very_cracked
++ command_block_back
++ command_block_conditional
++ command_block_front
++ command_block_side
++ chain_command_block_back
++ chain_command_block_conditional
++ chain_command_block_front
++ chain_command_block_side
++ repeating_command_block_back
++ repeating_command_block_conditional
++ repeating_command_block_front
++ repeating_command_block_side
++ daylight_detector_top
++ daylight_detector_inverted_top
++ hanging_roots
++ blast_furnace_front
++ blast_furnace_front_on
++ blast_furnace_side
++ blast_furnace_top
++ crimson_door_top
++ crimson_door_bottom
++ smoker_bottom
++ smoker_top
++ smoker_side
++ smoker_front
++ smoker_front_on
+	/items/ (all 1.20 items done!)
 + armor_stand
 + _pottery_sherd. x20 (all 20)
 + bowl
@@ -88,8 +154,13 @@ legend:     + added     - deleted     * edit    # comment       yyyy/mm/dd
 + _Sword (all 6)
 + _Shovel (all 6)
 * minecart: TOTAL RENEW
-+ minecrats (all)
-+++++++++++++ TO REDO: _pickaxe (all 6) netherite_pickaxe (MAYBE NOT)
++ minecarts (all)
++ pickaxe (all 6)
+	/gui/sprites/recipe_book/
++ made it for newer versions.
++ added few sprites.
+	/entity/signs/hanging/
++ hanging signs (all 11)
 * texture pack format: 15 (1.20), 18 (1.20.2), 19 (1.20.3 snapshot),
 
 
@@ -952,4 +1023,11 @@ légende :   + ajouté    - supprimé    * édité   #commentaire   aaaa/mm/jj
 -------------------------
 Author: twitter: @GodRage_Aonwa 
 Author homepage: http://godrage.free.fr/
+-------------------------
+	All Links
+https://github.com/1GodRage/AccurateTextures 
+https://modrinth.com/resourcepack/accurate-textures 
+https://www.planetminecraft.com/texture-pack/accurate-textures/
+https://www.curseforge.com/minecraft/texture-packs/accurate-textures
+French: https://www.minecraft-france.fr/resource-pack-accurate-textures/
 -------------------------
