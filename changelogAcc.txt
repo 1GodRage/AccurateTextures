@@ -8,7 +8,7 @@ legend:     + added     - deleted     * edit    # comment       yyyy/mm/dd
 -------------------------
 
 
-2023/10/13 - 1.20.2 (v6) A Log of items Update, with Corals
+2023/10/13 - 1.20.2 (v6) A Log of items Update, with Corals.
 + birch_log
 + cherry_log
 + acacia_log
@@ -87,6 +87,33 @@ legend:     + added     - deleted     * edit    # comment       yyyy/mm/dd
 + smoker_side
 + smoker_front
 + smoker_front_on
++ jungle_door_top
++ jungle_door_bottom
++ frosted_ice_0
++ frosted_ice_1
++ frosted_ice_2
++ frosted_ice_3
++ campfire_log
++ campfire_log_lit
++ soul_campfire_log_lit
++ repeater
++ repeater_on
++ comparator
++ comparator_on
++ nether_wart_stage0
++ nether_wart_stage1
+* nether_wart_stage2
+* deepslate_iron_ore
+* iron_ore
++ composter_compost
++ composter_ready
++ crimson_trapdoor
++ iron_bars
++ ladder
+* weeping_vines_plant
++ dark_oak_door_top
++ dark_oak_door_bottom
++ dark_oak_trapdoor
 	/items/ (all 1.20 items done!)
 + armor_stand
 + _pottery_sherd. x20 (all 20)
@@ -156,11 +183,15 @@ legend:     + added     - deleted     * edit    # comment       yyyy/mm/dd
 * minecart: TOTAL RENEW
 + minecarts (all)
 + pickaxe (all 6)
-	/gui/sprites/recipe_book/
-+ made it for newer versions.
-+ added few sprites.
-	/entity/signs/hanging/
-+ hanging signs (all 11)
+	/gui/
+*+ /sprites/ made it for newer versions
++ /toast/recipe_book/
++ /hanging_signs/ hanging signs (all 11)
+	/entity/
++ /entity/signs/hanging/ hanging signs (all 11)
++ /decorated_pot/
++ decorated_pot_side
++ decorated_pot_base
 * texture pack format: 15 (1.20), 18 (1.20.2), 19 (1.20.3 snapshot),
 
 
