@@ -10,6 +10,7 @@ Accurate Textures is a x32 Minecraft resource pack
 Original idea by GodRage, on Planet Minecraft.
 
 <h2>Original Idea</h2>
+
 - Original color only: no new colors in the image.
 - Same amount of color: Histogram Average channel #color is identical to original 16x16 texture.
 - Respect of Minecraft: iconic parts of the design will be preserved. (a line of 1 pixel wide in 16x16 is 2 pixel wide in 32x32)
