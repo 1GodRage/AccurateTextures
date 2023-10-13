@@ -7,7 +7,6 @@ Accurate Textures is a x32 Minecraft resource pack
 * https://modrinth.com/resourcepack/accurate-textures
 * https://www.minecraft-france.fr/resource-pack-accurate-textures/
 
-Original idea by GodRage, on Planet Minecraft.
 
 <h2>Original Idea</h2>
 
