@@ -19,9 +19,23 @@ Accurate Textures is a x32 Minecraft resource pack
 
 
 <h2>Usage guidelines (CC-BY-NC-4.0)</h2>
-Create a credits.txt within your project.zip that includes the text below:
+
+- You can't upload it on Modrinth/Curseforge or any other website that provide money. Only the current owner of the project can do it.
+
+### If you make your own resource pack
+Create a credits.txt within your resource_pack.zip that includes the text below:
 
 - Accurate textures https://www.planetminecraft.com/texture-pack/accurate-textures/
 - Original Author Twitter: @GodRage_Aonwa
 - Original Author homepage: http://godrage.free.fr
 - https://github.com/1GodRage/AccurateTextures/
+- And the list of the textures you used from Accurate textures.
+
+### Others
+- For Youtubers/vidéos: Add a link to https://www.planetminecraft.com/texture-pack/accurate-textures/ in the description of your video.
+- For Streamers: Add a link to https://www.planetminecraft.com/texture-pack/accurate-textures/ in the description of your page.
+#### Exemple
+- Resource packs used :
+- - Accurate textures https://www.planetminecraft.com/texture-pack/accurate-textures/
+  - Truthful http://...
+  - another texture pack http://...
