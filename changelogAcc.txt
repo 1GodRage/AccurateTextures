@@ -8,6 +8,99 @@ legend:     + added     - deleted     * edit    # comment       yyyy/mm/dd
 -------------------------
 
 
+2023/11/... - 1.20.3 (v7) "Candle lit on the wood" Update.
++ beehive_end
++ beehive_side
++ beehive_front
++ beehive_front_honey
++ orange_candle
++ orange_candle_lit
++ black_candle
++ black_candle_lit
++ blue_candle
++ blue_candle_lit
++ brown_candle
++ brown_candle_lit
++ candle
++ candle_lit
++ cyan_candle
++ cyan_candle_lit
++ gray_candle
++ gray_candle_lit
++ green_candle
++ green_candle_lit
++ light_blue_candle
++ light_blue_candle_lit
++ light_gray_candle
++ light_gray_candle_lit
++ lime_candle
++ lime_candle_lit
++ magenta_candle
++ magenta_candle_lit
++ pink_candle
++ pink_candle_lit
++ purple_candle
++ purple_candle_lit
++ red_candle
++ red_candle_lit
++ white_candle
++ white_candle_lit
++ yellow_candle
++ yellow_candle_lit
++ orange_wool
++ black_wool (replacing color from orange took 1 full hour because orange had 20 differents colors)
++ purple_wool
++ yellow_wool
++ light_gray_wool
++ white_wool
++ magenta_wool
++ pink_wool
++ light_blue_wool
++ green_wool
++ blue_wool
++ gray_wool
++ red_wool
++ lime_wool
++ cyan_wool
++ brown_wool
++ bell_bottom
++ bell_side
++ bell_top
++ chiseled_red_sandstone
++ cut_red_sandstone
++ blue_orchid
++ deepslate_tiles
++ cracked_deepslate_tiles
++ cut_sandstone
++ cyan_terracotta
++ farmland_moist
++ farmland
++ terracotta
++ beacon
++ emerald_block
++ anvil
++ anvil_top
++ chipped_anvil_top
++ damaged_anvil_top
++ dragon_egg
++ coal_block
++ big_dripleaf_tip
++ big_dripleaf_side
++ big_dripleaf_top
++ 
++ 
++ 
+* gilded_blackstone
+* chiseled_polished_blackstone
+* crimson_fungus
+* red_sandstone_top
+* warped_fungus
+* mossy_stone_bricks
+* glowstone
++ 16x16: lava, water, portal animation.
+# Pack version 19 https://www.minecraft.net/en-us/article/minecraft-snapshot-23w42a
+
+
 2023/10/13 - 1.20.2 (v6) A Log of items Update, with Corals.
 + birch_log
 + cherry_log
