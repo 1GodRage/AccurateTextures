@@ -8,7 +8,7 @@ legend:     + added     - deleted     * edit    # comment       yyyy/mm/dd
 -------------------------
 
 
-2023/11/... - 1.20.3 (v7) "Candle lit on the wood" Update.
+2023/11/05 - 1.20.2 (v7) "Candle lit on the wool" Update.
 + beehive_end
 + beehive_side
 + beehive_front
@@ -48,7 +48,7 @@ legend:     + added     - deleted     * edit    # comment       yyyy/mm/dd
 + yellow_candle
 + yellow_candle_lit
 + orange_wool
-+ black_wool (replacing color from orange took 1 full hour because orange had 20 differents colors)
++ black_wool (replacing color from orange took 1 full hour because orange had 20 different colors)
 + purple_wool
 + yellow_wool
 + light_gray_wool
@@ -87,9 +87,63 @@ legend:     + added     - deleted     * edit    # comment       yyyy/mm/dd
 + big_dripleaf_tip
 + big_dripleaf_side
 + big_dripleaf_top
-+ 
-+ 
-+ 
++ warped_stem_top
++ crimson_stem_top
++ stripped_crimson_stem_top
++ stripped_warped_stem_top
++ spore_blossom_base
++ spore_blossom
++ sunflower_front
++ sunflower_back
++ sunflower_bottom
++ sunflower_top
++ small_dripleaf_top
++ small_dripleaf_stem_bottom
++ small_dripleaf_stem_top
++ dried_kelp_side
++ dried_kelp_top
++ dried_kelp_bottom
++ bee_nest_side
++ bee_nest_front
++ bee_nest_front_honey
++ cactus_side
++ cactus_top
++ cactus_bottom
++ barrel_bottom
++ barrel_side
++ barrel_top
++ barrel_top_open
++ honeycomb_block
++ oak_trapdoor
++ chiseled_stone_bricks
++ acacia_door_bottom
++ acacia_door_top
++ observer_side
++ observer_front
++ observer_top
++ hopper_inside
++ hopper_outside
++ hopper_top
++ glow_item_frame
++ prismarine_bricks
++ orange_shulker_box
++ composter_side
++ composter_bottom
++ composter_top
++ potatoes_stage0
++ potatoes_stage1
++ potatoes_stage2
++ wheat_stage0
++ wheat_stage1
++ wheat_stage2
++ cake_inner
++ cake_side
++ cake_top
++ cake_bottom
++ spruce_trapdoor
++ spruce_door_bottom
++ spruce_door_top
++ clay
 * gilded_blackstone
 * chiseled_polished_blackstone
 * crimson_fungus
@@ -97,8 +151,35 @@ legend:     + added     - deleted     * edit    # comment       yyyy/mm/dd
 * warped_fungus
 * mossy_stone_bricks
 * glowstone
+* lilac_bottom
+* lilac_top
+* mangrove_trapdoor
+* poppy
+* purpur_pillar_top
+* hanging_roots
+* bamboo_door_bottom
+* bamboo_door_top
+* smithing_table_front
+* smithing_table_top
+* smithing_table_side
+* cracked_polished_blackstone_bricks
 + 16x16: lava, water, portal animation.
-# Pack version 19 https://www.minecraft.net/en-us/article/minecraft-snapshot-23w42a
+# Pack version 19 https://www.minecraft.net/en-us/article/minecraft-snapshot-23w42a (crafter)
+# Pack version 20 https://www.minecraft.net/en-us/article/minecraft-snapshot-23w43a (copper,tuff)
++ chiseled_copper
++ oxidized_chiseled_copper
++ tuff_bricks
++ chiseled_tuff_bricks
++ polished_tuff
++ chiseled_tuff_bricks_top
++ exposed_chiseled_copper (23w43a)
++ weathered_chiseled_copper
++ copper_trapdoor	(Copper Trapdoor Need redo for next version)
++ exposed_copper_trapdoor
++ weathered_copper_trapdoor
++ oxidized_copper_trapdoor
++ copper_door_bottom	(Copper Door Need redo for next version)
++ copper_door_top
 
 
 2023/10/13 - 1.20.2 (v6) A Log of items Update, with Corals.
