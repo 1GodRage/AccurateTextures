@@ -18,7 +18,7 @@ Accurate Textures is a x32 Minecraft resource pack
 - If possible: keep 3/4 of pixel original color at the same position.
 
 
-<h2>Usage guidelines (CC-BY-NC-4.0)</h2>
+<h2>Usage guidelines: All Right Reserved</h2>
 
 - You can't upload it on Modrinth/Curseforge or any other website that provide money. Only the current owner of the project can do it.
 
