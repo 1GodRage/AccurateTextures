@@ -1,0 +1,23 @@
+
+	CREDITS of Acurrate Textures
+
+----------------------------
+From Truthful https://www.planetminecraft.com/texture-pack/truthful/ CC BY-NC 4.0,
+made by ZeRafal : https://www.planetminecraft.com/member/zerafal/
+
++ /block/prismarine (with few pixel tweaks from GodRage)
++ /entity/chest/
+normal
+normal_left
+normal_right
+trapped
+trapped_left
+trapped_right 
++ /entity/bed/
+all 16 colors
+
+2023/12/15 Added in Accurate Textures Resource pack. (Placeholder)
+
+----------------------------
+All others textures made by GodRage
+https://www.planetminecraft.com/texture-pack/accurate-textures/
